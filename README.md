@@ -28,5 +28,5 @@ make
 
 ### Screenshots
 
-![ScreenShot](/screenshots/1.png)
-![ScreenShot2](/screenshots/2.png)
+![ScreenShot](/screenshots/Hw1-SS.png)
+![ScreenShot2](/screenshots/hw2-ss.png)
