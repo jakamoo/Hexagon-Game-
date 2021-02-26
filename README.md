@@ -10,20 +10,20 @@
 
 * The project requires GNU Compiler to compile . 
 
-Compilation
+## Compilation
 Once the requirements are met you can simply compile it by typing.
 ```
 make
 
 ```
-##Gameplay
+## Gameplay
 
-###Controls
+### Controls
 * Enter any mapping from keyboard as seen the board.
 
-###Computer Plays 
+### Computer Plays 
 
-*Computer has a partially smart . It detecting  moves and then plays according to .
+* Computer has a partially smart . It detecting  moves and then plays according to .
 
 
 Screenshots
