@@ -26,4 +26,7 @@ make
 * Computer has a partially smart . It detecting  moves and then plays according to .
 
 
-Screenshots
+### Screenshots
+
+![ScreenShot](/screenshots/1.png)
+![ScreenShot2](/screenshots/2.png)
